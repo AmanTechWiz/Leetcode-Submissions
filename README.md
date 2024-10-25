@@ -6,12 +6,14 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
