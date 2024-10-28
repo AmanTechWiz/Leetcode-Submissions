@@ -5,6 +5,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
@@ -26,6 +27,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0792-binary-search) |
