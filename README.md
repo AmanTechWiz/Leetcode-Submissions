@@ -19,6 +19,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0217-contains-duplicate](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0493-reverse-pairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0792-binary-search) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
@@ -36,6 +37,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
