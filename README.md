@@ -9,6 +9,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
@@ -76,10 +77,12 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
