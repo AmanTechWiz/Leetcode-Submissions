@@ -43,6 +43,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0069-sqrtx](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0441-arranging-coins](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -117,6 +118,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
