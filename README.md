@@ -5,6 +5,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0035-search-insert-position) |
@@ -44,6 +45,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0035-search-insert-position) |
@@ -64,6 +66,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
