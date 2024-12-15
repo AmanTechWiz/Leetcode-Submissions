@@ -17,6 +17,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0128-longest-consecutive-sequence](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0455-assign-cookies) |
@@ -49,6 +50,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0069-sqrtx](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0162-find-peak-element) |
 | [0441-arranging-coins](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
