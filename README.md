@@ -36,6 +36,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [1612-avoid-flood-in-the-city](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1612-avoid-flood-in-the-city) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2737-row-with-maximum-ones](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2737-row-with-maximum-ones) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,4 +181,8 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1612-avoid-flood-in-the-city) |
+## Matrix
+|  |
+| ------- |
+| [2737-row-with-maximum-ones](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2737-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
