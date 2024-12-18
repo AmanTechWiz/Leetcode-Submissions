@@ -36,6 +36,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [1571-allocate-mailboxes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1571-allocate-mailboxes) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1612-avoid-flood-in-the-city) |
+| [1803-average-waiting-time](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1803-average-waiting-time) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2737-row-with-maximum-ones](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2737-row-with-maximum-ones) |
@@ -178,6 +179,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0258-add-digits) |
+| [1803-average-waiting-time](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1803-average-waiting-time) |
 ## Number Theory
 |  |
 | ------- |
