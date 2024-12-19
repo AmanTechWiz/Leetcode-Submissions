@@ -28,6 +28,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0456-132-pattern](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [0985-bag-of-tokens](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0985-bag-of-tokens) |
@@ -171,6 +172,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0456-132-pattern) |
+| [0682-baseball-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -179,6 +181,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [1803-average-waiting-time](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1803-average-waiting-time) |
 ## Number Theory
 |  |
