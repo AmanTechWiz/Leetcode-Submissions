@@ -49,6 +49,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0119-pascals-triangle-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
+| [0650-2-keys-keyboard](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0650-2-keys-keyboard) |
 | [1571-allocate-mailboxes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1571-allocate-mailboxes) |
 ## Binary Search
 |  |
@@ -153,6 +154,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0069-sqrtx](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0441-arranging-coins) |
+| [0650-2-keys-keyboard](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0650-2-keys-keyboard) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1571-allocate-mailboxes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1571-allocate-mailboxes) |
 ## Sliding Window
