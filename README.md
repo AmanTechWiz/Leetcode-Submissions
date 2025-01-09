@@ -152,6 +152,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0441-arranging-coins) |
@@ -208,4 +209,8 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
