@@ -46,6 +46,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
@@ -119,6 +120,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0078-subsets) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -167,6 +169,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Greedy
 |  |
