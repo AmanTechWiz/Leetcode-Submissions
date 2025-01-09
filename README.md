@@ -40,6 +40,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [1803-average-waiting-time](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1803-average-waiting-time) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2737-row-with-maximum-ones](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2737-row-with-maximum-ones) |
 | [3311-ant-on-the-boundary](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3311-ant-on-the-boundary) |
 ## Dynamic Programming
@@ -165,6 +166,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -202,4 +204,8 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0074-search-a-2d-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [2737-row-with-maximum-ones](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2737-row-with-maximum-ones) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
