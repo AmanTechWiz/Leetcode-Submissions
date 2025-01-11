@@ -31,6 +31,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0682-baseball-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0907-koko-eating-bananas) |
+| [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [0985-bag-of-tokens](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0985-bag-of-tokens) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -138,6 +139,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1612-avoid-flood-in-the-city](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1612-avoid-flood-in-the-city) |
 ## Prefix Sum
@@ -170,6 +172,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
+| [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Greedy
 |  |
