@@ -176,6 +176,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0258-add-digits) |
@@ -242,6 +243,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0050-powx-n) |
 ## Depth-First Search
 |  |
@@ -251,4 +253,8 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
