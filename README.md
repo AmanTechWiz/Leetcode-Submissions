@@ -180,6 +180,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0050-powx-n](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [0650-2-keys-keyboard](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0650-2-keys-keyboard) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -252,9 +253,14 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0292-nim-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
