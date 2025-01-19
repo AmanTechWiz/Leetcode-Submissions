@@ -259,6 +259,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
+| [0237-delete-node-in-a-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Game Theory
 |  |
 | ------- |
