@@ -247,6 +247,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -261,6 +262,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0328-odd-even-linked-list) |
 ## Game Theory
