@@ -91,6 +91,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -104,6 +105,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -118,6 +120,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0088-merge-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0455-assign-cookies) |
@@ -127,6 +130,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | ------- |
 | [0056-merge-intervals](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0985-bag-of-tokens](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0985-bag-of-tokens) |
@@ -277,6 +281,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0061-rotate-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
