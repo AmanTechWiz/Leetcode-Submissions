@@ -170,6 +170,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0128-longest-consecutive-sequence](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
@@ -281,6 +282,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0061-rotate-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0206-reverse-linked-list) |
@@ -291,4 +293,12 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0292-nim-game) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
