@@ -215,6 +215,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0131-palindrome-partitioning](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2373-apply-discount-to-prices](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2373-apply-discount-to-prices) |
 ## Greedy
 |  |
 | ------- |
