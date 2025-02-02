@@ -201,6 +201,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0441-arranging-coins](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [0650-2-keys-keyboard](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0650-2-keys-keyboard) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1571-allocate-mailboxes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1571-allocate-mailboxes) |
 ## Sliding Window
 |  |
@@ -293,6 +294,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0234-palindrome-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0328-odd-even-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Game Theory
 |  |
 | ------- |
