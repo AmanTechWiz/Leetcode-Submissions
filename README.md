@@ -43,6 +43,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0907-koko-eating-bananas](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [0985-bag-of-tokens](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0985-bag-of-tokens) |
+| [1046-max-consecutive-ones-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -87,6 +88,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1612-avoid-flood-in-the-city](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1612-avoid-flood-in-the-city) |
@@ -189,6 +191,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3311-ant-on-the-boundary](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3311-ant-on-the-boundary) |
@@ -213,6 +216,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String
