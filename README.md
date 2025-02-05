@@ -184,6 +184,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0146-lru-cache](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -218,6 +219,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -230,6 +232,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0022-generate-parentheses](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
+| [0424-longest-repeating-character-replacement](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2373-apply-discount-to-prices](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2373-apply-discount-to-prices) |
