@@ -43,6 +43,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0907-koko-eating-bananas](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [0985-bag-of-tokens](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0985-bag-of-tokens) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -187,6 +188,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0424-longest-repeating-character-replacement](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
+| [0966-binary-subarrays-with-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1612-avoid-flood-in-the-city](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1612-avoid-flood-in-the-city) |
@@ -195,6 +197,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -222,6 +225,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
