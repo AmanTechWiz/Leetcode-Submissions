@@ -188,6 +188,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0940-fruit-into-baskets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1612-avoid-flood-in-the-city](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1612-avoid-flood-in-the-city) |
 ## Prefix Sum
 |  |
@@ -223,6 +224,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0940-fruit-into-baskets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
@@ -234,6 +236,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0131-palindrome-partitioning](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2373-apply-discount-to-prices](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2373-apply-discount-to-prices) |
 ## Greedy
