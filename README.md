@@ -243,6 +243,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0079-word-search) |
@@ -265,6 +266,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0682-baseball-game) |
