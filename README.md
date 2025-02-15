@@ -149,6 +149,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0435-non-overlapping-intervals](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0985-bag-of-tokens](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0985-bag-of-tokens) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1571-allocate-mailboxes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1571-allocate-mailboxes) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Backtracking
@@ -197,6 +198,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0940-fruit-into-baskets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1238-alphabet-board-path](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1238-alphabet-board-path) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -317,6 +319,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0079-word-search) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
@@ -351,4 +354,16 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
