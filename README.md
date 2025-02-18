@@ -320,6 +320,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | ------- |
 | [0079-word-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Brainteaser
 |  |
@@ -359,15 +360,18 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
