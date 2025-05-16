@@ -62,6 +62,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2737-row-with-maximum-ones](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2737-row-with-maximum-ones) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3311-ant-on-the-boundary](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3311-ant-on-the-boundary) |
 ## Dynamic Programming
 |  |
@@ -76,6 +77,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0435-non-overlapping-intervals](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0650-2-keys-keyboard) |
 | [1571-allocate-mailboxes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1571-allocate-mailboxes) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -259,6 +261,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2373-apply-discount-to-prices](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2373-apply-discount-to-prices) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Greedy
 |  |
 | ------- |
