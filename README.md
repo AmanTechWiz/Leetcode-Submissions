@@ -79,6 +79,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0435-non-overlapping-intervals](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0650-2-keys-keyboard](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0650-2-keys-keyboard) |
 | [1571-allocate-mailboxes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1571-allocate-mailboxes) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## Binary Search
 |  |
