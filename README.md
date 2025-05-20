@@ -66,6 +66,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3311-ant-on-the-boundary](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3321-type-of-triangle) |
+| [3639-zero-array-transformation-i](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3639-zero-array-transformation-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -224,6 +225,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3311-ant-on-the-boundary](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3311-ant-on-the-boundary) |
+| [3639-zero-array-transformation-i](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3639-zero-array-transformation-i) |
 ## Union Find
 |  |
 | ------- |
