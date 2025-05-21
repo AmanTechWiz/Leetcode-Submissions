@@ -16,6 +16,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0055-jump-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0078-subsets) |
@@ -198,6 +199,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0141-linked-list-cycle) |
@@ -318,6 +320,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
