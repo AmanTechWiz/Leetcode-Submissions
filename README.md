@@ -70,6 +70,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [3311-ant-on-the-boundary](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,6 +168,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [1571-allocate-mailboxes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1571-allocate-mailboxes) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [3321-type-of-triangle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -235,6 +237,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3311-ant-on-the-boundary](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3311-ant-on-the-boundary) |
 | [3639-zero-array-transformation-i](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 ## Union Find
 |  |
 | ------- |
@@ -295,6 +298,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0890-lemonade-change](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0890-lemonade-change) |
 | [0985-bag-of-tokens](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0985-bag-of-tokens) |
 | [1612-avoid-flood-in-the-city](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1612-avoid-flood-in-the-city) |
+| [3647-zero-array-transformation-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 ## Stack
 |  |
 | ------- |
@@ -323,6 +327,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1612-avoid-flood-in-the-city) |
+| [3647-zero-array-transformation-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
 | ------- |
