@@ -335,6 +335,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1612-avoid-flood-in-the-city](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1612-avoid-flood-in-the-city) |
 | [3647-zero-array-transformation-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
@@ -406,6 +407,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | ------- |
 | [0146-lru-cache](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -427,6 +429,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -459,6 +462,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph
@@ -469,4 +473,12 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
