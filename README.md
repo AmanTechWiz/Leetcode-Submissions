@@ -69,6 +69,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2737-row-with-maximum-ones](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2737-row-with-maximum-ones) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3194-find-words-containing-character](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3311-ant-on-the-boundary](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3321-type-of-triangle) |
@@ -300,6 +301,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2373-apply-discount-to-prices](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2373-apply-discount-to-prices) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+| [3194-find-words-containing-character](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
 ## Greedy
 |  |
 | ------- |
