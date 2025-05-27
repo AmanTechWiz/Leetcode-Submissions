@@ -275,6 +275,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1571-allocate-mailboxes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1571-allocate-mailboxes) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3321-type-of-triangle) |
 ## Sliding Window
 |  |
