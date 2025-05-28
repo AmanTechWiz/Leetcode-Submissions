@@ -47,6 +47,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0456-132-pattern](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0890-lemonade-change) |
@@ -90,6 +91,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0152-maximum-product-subarray](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0650-2-keys-keyboard) |
 | [1571-allocate-mailboxes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1571-allocate-mailboxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -368,6 +370,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0074-search-a-2d-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
 | [2737-row-with-maximum-ones](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2737-row-with-maximum-ones) |
 ## String Matching
@@ -472,6 +475,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
