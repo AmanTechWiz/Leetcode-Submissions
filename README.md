@@ -261,6 +261,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 ## Math
 |  |
 | ------- |
@@ -394,6 +395,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0257-binary-tree-paths](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -468,6 +470,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -495,6 +498,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Quickselect
