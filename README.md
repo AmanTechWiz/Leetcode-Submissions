@@ -68,6 +68,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [1612-avoid-flood-in-the-city](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1612-avoid-flood-in-the-city) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1803-average-waiting-time](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1803-average-waiting-time) |
+| [1876-map-of-highest-peak](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1876-map-of-highest-peak) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -377,6 +378,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0542-01-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1876-map-of-highest-peak) |
 | [2737-row-with-maximum-ones](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2737-row-with-maximum-ones) |
 ## String Matching
 |  |
@@ -489,6 +491,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0733-flood-fill](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1876-map-of-highest-peak) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
