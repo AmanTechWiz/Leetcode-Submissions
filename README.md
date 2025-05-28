@@ -55,6 +55,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [0985-bag-of-tokens](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0985-bag-of-tokens) |
+| [1036-rotting-oranges](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -367,6 +368,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0074-search-a-2d-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1036-rotting-oranges](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
 | [2737-row-with-maximum-ones](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2737-row-with-maximum-ones) |
 ## String Matching
 |  |
@@ -473,6 +475,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0547-number-of-provinces](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
