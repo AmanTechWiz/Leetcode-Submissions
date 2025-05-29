@@ -413,6 +413,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0733-flood-fill](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -475,6 +476,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -493,6 +495,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [1036-rotting-oranges](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
 | [1876-map-of-highest-peak](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1876-map-of-highest-peak) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
