@@ -60,6 +60,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0985-bag-of-tokens](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0985-bag-of-tokens) |
 | [1036-rotting-oranges](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -383,6 +384,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0542-01-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1876-map-of-highest-peak) |
 | [2737-row-with-maximum-ones](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2737-row-with-maximum-ones) |
 ## String Matching
@@ -504,6 +506,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0733-flood-fill](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1876-map-of-highest-peak) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
