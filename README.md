@@ -276,6 +276,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0128-longest-consecutive-sequence](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Math
 |  |
 | ------- |
@@ -321,6 +322,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1238-alphabet-board-path](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1238-alphabet-board-path) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
