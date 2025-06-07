@@ -258,6 +258,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -331,6 +332,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [2373-apply-discount-to-prices](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2373-apply-discount-to-prices) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3194-find-words-containing-character](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
@@ -345,6 +347,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [1612-avoid-flood-in-the-city](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1612-avoid-flood-in-the-city) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 ## Stack
 |  |
@@ -356,6 +359,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0234-palindrome-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0682-baseball-game) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -379,6 +383,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1612-avoid-flood-in-the-city](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1612-avoid-flood-in-the-city) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3647-zero-array-transformation-iii) |
 ## Matrix
 |  |
