@@ -429,6 +429,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0210-course-schedule-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0257-binary-tree-paths](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -592,4 +593,8 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
