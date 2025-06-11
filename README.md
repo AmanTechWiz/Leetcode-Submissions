@@ -224,6 +224,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,6 +273,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [3311-ant-on-the-boundary](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3311-ant-on-the-boundary) |
 | [3639-zero-array-transformation-i](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -308,6 +310,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String
 |  |
 | ------- |
@@ -334,6 +337,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [3194-find-words-containing-character](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
 |  |
 | ------- |
