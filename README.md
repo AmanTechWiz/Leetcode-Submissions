@@ -103,6 +103,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [1571-allocate-mailboxes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1571-allocate-mailboxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Search
@@ -562,6 +563,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 ## Quickselect
 |  |
@@ -590,6 +592,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0207-course-schedule](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0210-course-schedule-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
 | ------- |
@@ -598,6 +601,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Trie
 |  |
 | ------- |
