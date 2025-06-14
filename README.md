@@ -100,6 +100,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0542-01-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0650-2-keys-keyboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1571-allocate-mailboxes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1571-allocate-mailboxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -562,6 +563,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0547-number-of-provinces](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
@@ -601,6 +603,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Trie
 |  |
