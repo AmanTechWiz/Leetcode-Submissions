@@ -297,6 +297,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0650-2-keys-keyboard](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0650-2-keys-keyboard) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1571-allocate-mailboxes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1571-allocate-mailboxes) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3321-type-of-triangle) |
@@ -351,6 +352,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0455-assign-cookies](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0890-lemonade-change) |
 | [0985-bag-of-tokens](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0985-bag-of-tokens) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1612-avoid-flood-in-the-city) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
