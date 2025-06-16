@@ -71,6 +71,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1803-average-waiting-time](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1803-average-waiting-time) |
 | [1876-map-of-highest-peak](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1876-map-of-highest-peak) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
