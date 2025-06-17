@@ -16,6 +16,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0055-jump-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0075-sort-colors) |
@@ -91,6 +92,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | ------- |
 | [0022-generate-parentheses](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -399,6 +401,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0079-word-search) |
