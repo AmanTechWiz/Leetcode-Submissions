@@ -94,6 +94,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0022-generate-parentheses](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -296,6 +297,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0002-add-two-numbers](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -609,6 +611,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Shortest Path
 |  |
