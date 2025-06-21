@@ -93,6 +93,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | ------- |
 | [0022-generate-parentheses](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
@@ -296,6 +297,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0258-add-digits) |
@@ -624,4 +626,8 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
