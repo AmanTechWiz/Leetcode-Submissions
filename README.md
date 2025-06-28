@@ -312,6 +312,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0069-sqrtx](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0441-arranging-coins) |
