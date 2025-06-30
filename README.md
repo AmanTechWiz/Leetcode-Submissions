@@ -182,6 +182,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
@@ -344,6 +345,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
@@ -439,6 +441,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Recursion
 |  |
