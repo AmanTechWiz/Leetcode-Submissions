@@ -7,12 +7,12 @@ public:
             end--;
         }
 
-        int start = end;
-        while (start >= 0 && s[start] != ' ') {
-            start--;
-        }
+       int cnt = 0;
 
-        return end - start;  
-
+       while(end >=0 && s[end] != ' '){
+        cnt++;
+        end--;
+       }
+        return cnt;
     }
 };
