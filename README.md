@@ -347,6 +347,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0020-valid-parentheses](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
