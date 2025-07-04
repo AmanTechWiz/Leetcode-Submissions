@@ -266,6 +266,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0142-linked-list-cycle-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0355-design-twitter](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -314,6 +315,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0066-plus-one](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0258-add-digits](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0292-nim-game) |
@@ -355,6 +357,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0126-word-ladder-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0257-binary-tree-paths](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
