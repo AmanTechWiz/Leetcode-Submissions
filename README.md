@@ -59,6 +59,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0890-lemonade-change](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
+| [0941-sort-array-by-parity](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0967-minimum-falling-path-sum) |
@@ -193,6 +194,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0455-assign-cookies) |
+| [0941-sort-array-by-parity](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0985-bag-of-tokens) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -207,6 +209,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0217-contains-duplicate](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0455-assign-cookies) |
+| [0941-sort-array-by-parity](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0985-bag-of-tokens) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1571-allocate-mailboxes](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1571-allocate-mailboxes) |
