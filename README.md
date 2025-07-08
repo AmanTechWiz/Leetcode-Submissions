@@ -237,6 +237,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0137-single-number-ii) |
@@ -318,6 +319,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0050-powx-n](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -358,6 +360,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0022-generate-parentheses](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0126-word-ladder-ii) |
@@ -414,6 +417,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0682-baseball-game) |
 | [1803-average-waiting-time](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1803-average-waiting-time) |
