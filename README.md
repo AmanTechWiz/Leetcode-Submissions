@@ -477,6 +477,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0100-same-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -548,6 +549,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -601,6 +603,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
