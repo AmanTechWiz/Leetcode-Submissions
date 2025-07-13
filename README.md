@@ -51,6 +51,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0455-assign-cookies](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
+| [0500-keyboard-row](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0682-baseball-game) |
@@ -276,6 +277,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0355-design-twitter](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0500-keyboard-row) |
 | [0940-fruit-into-baskets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0966-binary-subarrays-with-sum) |
@@ -370,6 +372,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0257-binary-tree-paths](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0500-keyboard-row) |
 | [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1238-alphabet-board-path](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1238-alphabet-board-path) |
