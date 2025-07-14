@@ -110,6 +110,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0124-binary-tree-maximum-path-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0542-01-matrix) |
@@ -194,6 +195,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0148-sort-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0985-bag-of-tokens) |
@@ -371,6 +373,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0166-fraction-to-recurring-decimal](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0257-binary-tree-paths](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0500-keyboard-row) |
 | [0952-word-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0952-word-subsets) |
