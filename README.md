@@ -45,6 +45,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0238-product-of-array-except-self](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0260-single-number-iii) |
+| [0347-top-k-frequent-elements](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
@@ -162,6 +163,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0148-sort-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -210,6 +212,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0148-sort-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0941-sort-array-by-parity) |
@@ -277,6 +280,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
@@ -438,6 +442,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -641,6 +646,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -652,6 +658,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Randomized
@@ -689,4 +696,8 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0278-first-bad-version) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
