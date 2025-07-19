@@ -142,6 +142,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0162-find-peak-element](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0456-132-pattern) |
@@ -698,6 +699,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0374-guess-number-higher-or-lower) |
 ## Bucket Sort
 |  |
 | ------- |
