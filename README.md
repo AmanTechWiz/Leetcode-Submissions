@@ -340,6 +340,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0292-nim-game](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0292-nim-game) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0492-construct-the-rectangle) |
 | [0650-2-keys-keyboard](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0650-2-keys-keyboard) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
