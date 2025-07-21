@@ -389,6 +389,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1238-alphabet-board-path](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1238-alphabet-board-path) |
 | [1250-longest-common-subsequence](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/2292-counting-words-with-a-given-prefix) |
