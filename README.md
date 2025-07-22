@@ -46,6 +46,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
@@ -142,6 +143,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0162-find-peak-element](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0278-first-bad-version) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0441-arranging-coins) |
@@ -199,6 +201,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0148-sort-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0234-palindrome-linked-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0941-sort-array-by-parity) |
@@ -215,6 +218,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0941-sort-array-by-parity) |
@@ -284,6 +288,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0166-fraction-to-recurring-decimal](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
