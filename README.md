@@ -165,6 +165,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0347-top-k-frequent-elements) |
@@ -253,6 +254,7 @@ Hello everyone! This is my repo for all my leetcode submissions from starting to
 | [0078-subsets](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/AmanTechWiz/Leetcode-Submissions/tree/master/0461-hamming-distance) |
